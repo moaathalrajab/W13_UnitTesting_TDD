@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import Logic.GUI_Controller;
+import logic.GUI_Controller;
 
 class TestGCD {
 	
